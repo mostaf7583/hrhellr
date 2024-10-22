@@ -108,6 +108,25 @@
              "Result" : new StringDataType()
         ]
     ],
+    [
+        "name":"CustomWIH",
+        "displayName" : "csvEnter",
+        "icon" : "defaultwebserviceicon.png",
+        "paramters":[
+            "allevaluations": new ObjectDataType()
+            ],
+            "results" : [
+             "Result" : new ObjectDataType()
+        ]
+        
+    ],
+    
+    
+    
+    
+    
+    
+    
 
     [
         "name" : "Log",
