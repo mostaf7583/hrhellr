@@ -110,7 +110,7 @@
     ],
     [
         "name":"CustomWIH",
-        "displayName" : "csvEnter",
+        "displayName" : "CustomWIH",
         "icon" : "defaultwebserviceicon.png",
         "paramters":[
             "allevaluations": new ObjectDataType()
