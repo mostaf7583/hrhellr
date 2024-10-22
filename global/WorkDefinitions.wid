@@ -116,7 +116,7 @@
             "allevaluations": new ObjectDataType()
             ],
             "results" : [
-             "Result" : new ObjectDataType()
+             "allevaluations" : new ObjectDataType()
         ]
         
     ],
