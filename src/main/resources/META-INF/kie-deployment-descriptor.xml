@@ -16,6 +16,12 @@
             <parameters/>
             <name>CustomWIH</name>
         </work-item-handler>
+        <work-item-handler>
+            <resolver>mvel</resolver>
+            <identifier>new org.jbpm.process.workitem.executesql.ExecuteSqlWorkItemHandler("java:jboss/kie/datasources/20e8835d-cf0e-4345-a8e1-2a958c4f1200_d3db9c31-f827-406b-ad2f-3dd6e2114c5f")</identifier>
+            <parameters/>
+            <name>ExecuteSQL</name>
+        </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
     <configurations/>
