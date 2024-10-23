@@ -48,7 +48,7 @@
     <dependency>
       <groupId>CustomWIH</groupId>
       <artifactId>CustomWIH</artifactId>
-      <version>0.1.10-SNAPSHOT</version>
+      <version>0.1.11-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
